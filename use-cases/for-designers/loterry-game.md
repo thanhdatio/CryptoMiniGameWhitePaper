@@ -1,2 +1,0 @@
-# Loterry game
-
