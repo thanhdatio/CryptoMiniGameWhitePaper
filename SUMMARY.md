@@ -1,6 +1,6 @@
 # Table of contents
 
-* [What is Crypto Mini Game?](README.md)
+* [❓ What is Crypto Mini Game?](README.md)
 
 ## 📖 Contract
 
