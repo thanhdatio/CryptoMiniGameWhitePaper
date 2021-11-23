@@ -1,4 +1,4 @@
-# What is Crypto Mini Game?
+# ❓ What is Crypto Mini Game?
 
 {% hint style="info" %}
 **Good to know:** providing a brief overview of your product and its core use cases is a great place to start with product docs. Your product might seem obvious to you – you made it! However, to others, even folks who are trying your product after reading your site or getting a sales demo, it can still be unclear. This is your chance to clarify your product and set the right expectations!
@@ -16,11 +16,21 @@ Here are a couple of examples of succinct overviews from products with really gr
 >
 > — From the [Mailchimp Marketing API docs](https://mailchimp.com/developer/marketing/docs/fundamentals/)
 
-## Getting Started
+## Crypto mini game Tokenomics
 
-**Got 2 minutes?** Check out a video overview of our product:
+** Total amount: 1.000.000.000 CMG**
 
-{% embed url="https://www.loom.com/share/3bfa83acc9fd41b7b98b803ba9197d90" %}
+OMG Contract: 500.000.000 CMG
+
+Play to Earn: 200.000.000 OMG
+
+Get free Cash Contract: 100.000.000 OMG
+
+DEX LP: 100.000.000 OMG
+
+Developer: 100.000.000 OMG
+
+![Crypto mini game Tokenomics](.gitbook/assets/OMGTokenomics.PNG)
 
 {% hint style="info" %}
 **Good to know:** A succinct video overview is a great way to introduce folks to your product. Embed a Loom, Vimeo or YouTube video and you're good to go! We love this video from the fine folks at [Loom](https://loom.com) as a perfect example of a succinct feature overview.
