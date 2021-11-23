@@ -18,17 +18,17 @@ Here are a couple of examples of succinct overviews from products with really gr
 
 ## Crypto mini game Tokenomics
 
-** Total amount: 1.000.000.000 CMG**
+**Total amount: 1.000.000.000 CMG**
 
-OMG Contract: 500.000.000 CMG
+CMG Contract: 500.000.000 CMG
 
-Play to Earn: 200.000.000 OMG
+Play to Earn: 200.000.000 CMG
 
-Get free Cash Contract: 100.000.000 OMG
+Get free Cash Contract: 100.000.000 CMG
 
-DEX LP: 100.000.000 OMG
+DEX LP: 100.000.000 CMG
 
-Developer: 100.000.000 OMG
+Developer: 100.000.000 CMG
 
 ![Crypto mini game Tokenomics](.gitbook/assets/OMGTokenomics.PNG)
 
