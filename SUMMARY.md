@@ -18,3 +18,7 @@
 * [💹 Bull or bear game](betting-game/figma-integration.md)
 * [🙌 One two three game](betting-game/one-two-three-game.md)
 * [🎰 Loterry game](betting-game/loterry-game.md)
+
+## Roadmap
+
+* [Phase 1](roadmap/phase-1.md)
