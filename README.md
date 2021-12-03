@@ -1,20 +1,12 @@
 # ❓ What is Crypto Mini Game?
 
-{% hint style="info" %}
-**Good to know:** providing a brief overview of your product and its core use cases is a great place to start with product docs. Your product might seem obvious to you – you made it! However, to others, even folks who are trying your product after reading your site or getting a sales demo, it can still be unclear. This is your chance to clarify your product and set the right expectations!
-{% endhint %}
 
-Here are a couple of examples of succinct overviews from products with really great docs:
 
-> Loom is a video messaging tool that helps you get your message across through instantly shareable videos.
->
-> With Loom, you can record your camera, microphone, and desktop simultaneously. Your video is then instantly available to share through Loom's patented technology.
->
-> — From the [Loom Docs](https://support.loom.com/hc/en-us/articles/360002158057-What-is-Loom-)
+According to annual statistics, the number of people participating in betting and lottery is very large, most of which are lost. In order to provide players with a healthy entertainment platform where they can both participate in a simple betting game and earn money, we have created a blockchain smart contract on the Polygon network for players. Player can be small betting games and freely make profits through the following forms: mining CMG, playing to earn , get free cash,... In general, there will be 3 main smart contracts: OMG Contract, Get free cash contract and Play to Earn Contract
 
-> The Mailchimp Marketing API provides programmatic access to Mailchimp data and functionality, allowing developers to build custom features to do things like sync email activity and campaign analytics with their database, manage audiences and campaigns, and more.
->
-> — From the [Mailchimp Marketing API docs](https://mailchimp.com/developer/marketing/docs/fundamentals/)
+* OMG contract will include services: CMG Mining, Beting mini games (Bullbear game, One two three game, Lottery game).
+* Get free cash contract will include services: Every day players will receive a certain amount of Cash for free, the amount of cash received will decrease over time.&#x20;
+* Play to Earn smart contract will include services: Players can play simple flash games to get free CMG tokens, the amount of CMG tokens received will decrease over time.
 
 ## Crypto mini game Tokenomics
 
@@ -32,13 +24,9 @@ Developer: 100.000.000 CMG
 
 ![Crypto mini game Tokenomics](.gitbook/assets/OMGTokenomics.PNG)
 
-{% hint style="info" %}
-**Good to know:** A succinct video overview is a great way to introduce folks to your product. Embed a Loom, Vimeo or YouTube video and you're good to go! We love this video from the fine folks at [Loom](https://loom.com) as a perfect example of a succinct feature overview.
-{% endhint %}
+### Smart contract
 
-### Guides: Jump right in
-
-Follow our handy guides to get started on the basics as quickly as possible:
+Smart contract in crypto mini game:
 
 {% content-ref url="contract/creating-your-first-project.md" %}
 [creating-your-first-project.md](contract/creating-your-first-project.md)
@@ -52,13 +40,9 @@ Follow our handy guides to get started on the basics as quickly as possible:
 [Broken link](broken-reference)
 {% endcontent-ref %}
 
-{% hint style="info" %}
-**Good to know:** your product docs aren't just a reference of all your features! use them to encourage folks to perform certain actions and discover the value in your product.
-{% endhint %}
+### Earn money
 
-### Fundamentals: Dive a little deeper
-
-Learn the fundamentals of MyProduct to get a deeper understanding of our main features:
+Earn free money with:
 
 {% content-ref url="earn-money/projects.md" %}
 [projects.md](earn-money/projects.md)
@@ -75,7 +59,3 @@ Learn the fundamentals of MyProduct to get a deeper understanding of our main fe
 {% content-ref url="broken-reference" %}
 [Broken link](broken-reference)
 {% endcontent-ref %}
-
-{% hint style="info" %}
-**Good to know:** Splitting your product into fundamental concepts, objects, or areas can be a great way to let readers deep dive into the concepts that matter most to them. Combine guides with this approach to 'fundamentals' and you're well on your way to great documentation!
-{% endhint %}
