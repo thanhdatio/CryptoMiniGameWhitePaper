@@ -1,3 +1,7 @@
+---
+coverY: 0
+---
+
 # ❓ What is Crypto Mini Game?
 
 
@@ -59,3 +63,8 @@ Earn free money with:
 {% content-ref url="broken-reference" %}
 [Broken link](broken-reference)
 {% endcontent-ref %}
+
+### Crypto minigame Economy
+
+![](<.gitbook/assets/CMG economy2.PNG>)
+
