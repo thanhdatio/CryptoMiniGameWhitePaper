@@ -16,7 +16,7 @@ According to annual statistics, the number of people participating in betting an
 
 **Total amount: 1.000.000.000 CMG**
 
-CMG Contract: 500.000.000 CMG
+CMG Contract: 350.000.000 CMG
 
 Play to Earn: 200.000.000 CMG
 
@@ -26,7 +26,11 @@ DEX LP: 100.000.000 CMG
 
 Developer: 100.000.000 CMG
 
-![Crypto mini game Tokenomics](.gitbook/assets/OMGTokenomics.PNG)
+Phase 4 planing: 150.000.000.CMG (Locked)
+
+
+
+![Crypto mini game Tokenomics](.gitbook/assets/cmgtoken.png)
 
 ### Smart contract
 
