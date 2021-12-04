@@ -22,3 +22,6 @@
 ## Roadmap
 
 * [Phase 1](roadmap/phase-1.md)
+* [Phase 2](roadmap/phase-2.md)
+* [Phase 3](roadmap/phase-3.md)
+* [Phase 4](roadmap/phase-4.md)
