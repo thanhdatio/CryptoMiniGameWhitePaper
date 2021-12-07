@@ -1,4 +1,4 @@
-# 🎮 Play game to earn cash
+# 🎰 Lottery game
 
 {% hint style="info" %}
 **Coming soon!**

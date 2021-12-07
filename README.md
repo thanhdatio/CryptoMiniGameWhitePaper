@@ -8,9 +8,9 @@ coverY: 0
 
 According to annual statistics, the number of people participating in betting and lottery is very large, most of which are lost. In order to provide players with a healthy entertainment platform where they can both participate in a simple betting game and earn money, we have created a blockchain smart contract on the Polygon network for players. Player can be small betting games and freely make profits through the following forms: mining CMG, playing to earn , get free cash,... In general, there will be 3 main smart contracts: OMG Contract, Get free cash contract and Play to Earn Contract
 
-* OMG contract will include services: CMG Mining, Beting mini games (Bullbear game, One two three game, Lottery game).
-* Get free cash contract will include services: Every day players will receive a certain amount of Cash for free, the amount of cash received will decrease over time.&#x20;
-* Play to Earn smart contract will include services: Players can play simple flash games to get free CMG tokens, the amount of CMG tokens received will decrease over time.
+* Services of OMG contract: CMG Mining, Betting mini games (Bullbear game, One two three game, Lottery game).
+* Services of Get free cash contract: Every day players will receive a certain amount of Cash for free, the amount of cash received will decrease over time.&#x20;
+* Services of Play to Earn contract: Players can play simple flash games to get free CMG tokens, the amount of CMG tokens received will decrease over time.
 
 ## Crypto mini game Tokenomics
 
@@ -72,3 +72,10 @@ Earn free money with:
 
 ![](<.gitbook/assets/CMG economy2.PNG>)
 
+### Social network:
+
+Webiste: https://cryptominigames.com
+
+Twitter: @Cryptominigames&#x20;
+
+Telegram: t.me/CryptoMiniGame
